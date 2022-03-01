@@ -1,5 +1,12 @@
 import './App.css';
-import "EightBall" from './EightBall.js';
+import EightBall from './EightBall.js';
+
+
+/**
+ * App renders Eighball component.
+ * 
+ *  App -> EightBall
+ */
 
 function App() {
   const answers = [
